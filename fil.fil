@@ -1,0 +1,4 @@
+{
+  "status" : "BAD_CREDENTIALS",
+  "message" : "Auth failed."
+}
